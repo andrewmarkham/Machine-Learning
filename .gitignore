@@ -1,0 +1,10 @@
+
+src/search-server/node_modules/
+
+src/search-server/dist/
+
+src/search-server/.env
+
+src/search-app/.next/
+
+src/search-app/node_modules/
